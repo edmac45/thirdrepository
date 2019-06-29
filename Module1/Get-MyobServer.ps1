@@ -2,7 +2,7 @@
 .Synopsis
    Short description
 .DESCRIPTION
-   Long description
+   Long description 
 .EXAMPLE
    Example of how to use this cmdlet
 .EXAMPLE
